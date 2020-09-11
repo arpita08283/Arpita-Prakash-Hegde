@@ -1,5 +1,5 @@
-@media screen {
-  body {
-    width: 75%;
+@media (min-width:600px) {
+  p {
+    font-size:1.25rem;
   }
 }
