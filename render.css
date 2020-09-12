@@ -75,6 +75,8 @@ input[type="file"] {
 @media (min-width:600px) {
   p {
     font-size:1.25rem;
+    width:100%;
+    height:100%;
   }
 }
 
