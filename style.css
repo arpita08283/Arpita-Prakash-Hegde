@@ -37,9 +37,9 @@ nav ul li a{
    border-radius:3px;
    text-transform:uppercase;
 }
-a.active,a:nover{
+a.active,a:hover{
    background:#1b9bff;
-   transaction: .5s;
+   transaction:all .5s;
 }
 .checkbtn{
    font-size:30px;
@@ -73,7 +73,7 @@ a.active,a:nover{
       height:100vh;
       background:#2c3e50;
       top:80px;
-      left:0;
+      left:-100%;
       text-align:center;
       
    }
@@ -89,6 +89,7 @@ a.active,a:nover{
    a:hover,a.active{
       background:none;
       color:#0082e6;
+      transaction:all .5s;
    }
    #check:checked ~ ul{
       left:0;
