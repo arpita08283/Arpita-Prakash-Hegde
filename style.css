@@ -45,6 +45,6 @@ a.active,a:hover{
    font-size:30px;
    color:white;
    float:right;
-  
+   display:none;
 }
   
