@@ -45,6 +45,12 @@ a.active,a:nover{
    font-size:30px;
    color:white;
    float:right;
-   
+   line-height:80x;
+   margin-right:40px;
+   cursor:pointer;
+   display:none
+}
+#check{
+   display:none;
 }
   
