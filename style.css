@@ -30,3 +30,8 @@ nav ul li{
    margin:0 5px;
 }
 
+nav ul li a{
+   color:white;
+   font-size:17px;
+   text-transform:uppercase;
+}
