@@ -58,6 +58,14 @@ a.active,a:hover{
       font-size:10px;
       padding-left:50px;
    }
+   body {
+    width=100%;
+    height: 100%;
+    background-image:url("https://wallpaperaccess.com/full/1691795.jpg");
+    background-position: centre;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
    nav ul li a{
       font-size:16px;
    }
