@@ -96,7 +96,7 @@ a.active,a:hover{
    }
 }
 section{
-   background:url("https://png.pngtree.com/thumb_back/fw800/back_our/20190622/ourmid/pngtree-3d-home-e-commerce-background-download-image_229138.jpg") no-repeat;
+   background:url("background.jpg") no-repeat;
    background-size:cover;
    height:calc(100vh-80px);
 }
