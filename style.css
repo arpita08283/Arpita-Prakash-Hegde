@@ -95,8 +95,3 @@ a.active,a:hover{
       left:0;
    }
 }
-section{
-   background:url("background.jpg") no-repeat;
-   background-size:cover;
-   height:calc(100vh-80px);
-}
